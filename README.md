@@ -8,3 +8,4 @@ Ferramenta de brute force em subdominios em CLI.
 - [pyfiglet](https://www.geeksforgeeks.org/python-ascii-art-using-pyfiglet-module/) - Banner.
 
 
+![image](https://github.com/okuma1/dns_force/assets/92878748/ec8573a8-3dc0-4431-b675-1acda6fe834e)
