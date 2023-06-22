@@ -12,4 +12,4 @@ Ferramenta de brute force em subdominios em CLI.
 
 
 - Opção "-h" para verificar os comandos:
-  ![image](https://github.com/okuma1/dns_force/assets/92878748/4dc4e162-413b-4d9c-89f3-0bbf1f97f20a)
+ ![image](https://github.com/okuma1/dns_force/assets/92878748/4dc4e162-413b-4d9c-89f3-0bbf1f97f20a)
